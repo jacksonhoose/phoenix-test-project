@@ -1,0 +1,7 @@
+<div>
+  <h2>new Topic Contorller Index</h2>
+  <form>
+    <input type="text" name="title" placeholder="Topic Name "/>
+    <button class="button" type="submit">Create Topic</button>
+  </form>
+</div>
